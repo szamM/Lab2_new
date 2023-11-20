@@ -12,7 +12,6 @@ public class Main {
         Roselia roselia = new Roselia("Агафий", 1);
         Roserade roserade = new Roserade("Авдотий", 1);
         Volcanion volcanion = new Volcanion("Арнольлд", 1);
-
         b.addAlly(budew);
         b.addAlly(roserade);
         b.addAlly(meditite);
